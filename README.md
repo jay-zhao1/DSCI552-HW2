@@ -62,7 +62,3 @@ The best k is selected by the plotted test MSE, following the exercise. This min
 ## Data source
 
 [UCI Combined Cycle Power Plant dataset](https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant). The original dataset description and associated research references are included in `CCPP/Readme.txt`.
-
-## Submission
-
-Push the contents of this directory, including the notebook, report, required data, README, requirements, and `.gitignore`, to a **public GitHub repository**. Submit the repository homepage URL on Brightspace. Do not upload the virtual environment, notebook checkpoints, temporary files, or backup copies.
